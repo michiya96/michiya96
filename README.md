@@ -1,6 +1,7 @@
 # ようこそ
 ## Hello
 
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=michiya96&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/michiya96/)
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michiya96&layout=compact&theme=tokyonight)](https://github.com/michiya96/)
 
